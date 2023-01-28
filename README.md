@@ -1,13 +1,14 @@
 # Exploratory Data Analysis
 
-This repository contains two `.sql` files:
+This repository contains the folders:
 
-- `covid-queries.sql`
-- `housing-queries.sql`
+- COVID-19
+- Nashville
 
-In the first file, I mainly explored a dataset of COVID-19 deaths and vaccinations.
-In the second file, I mainly explored how to clean up a dataset of Nashville Housing data.
-The queries in both files were written following a guide set up by Alex The Analyst.
+In the first folder, a dataset of COVID-19 deaths and vaccinations is explored.
+In the second folder, a dataset of Nashville Housing data is modified in order to clean up the data.
+
+The queries in the SQL files were written following a guide set up by Alex The Analyst.
 
 The queries were executed against a local server under MySQL, version 5.4.
 
